@@ -23,3 +23,6 @@ Step 6:- Interactive Elements Enhance your dashboard with interactive elements l
 Step 7:- Insights and Recommendation Draw insights from your analysis and use them to make informed recommendations. For example, which bikes are most popular among certain age groups or demographics?
 
 Step 8:- Documentation Document the steps you took to create the dashboard. Include explanations for your design choices and any challenges you faced. Create a summary of the insights gained and recommendations made.
+
+# Dashboard
+Final Dashboard to represent relations is available [here](https://docs.google.com/spreadsheets/d/1-OtoOjfRp7paotobD6MeU7sgBc8y_G9TbGnLhcUVSGY/edit#gid=430074513)
