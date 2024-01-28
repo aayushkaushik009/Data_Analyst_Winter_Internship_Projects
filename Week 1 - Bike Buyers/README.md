@@ -27,4 +27,4 @@ Step 8:- Documentation Document the steps you took to create the dashboard. Incl
 # Dashboard
 The final Dashboard to represent relations is available [here](https://docs.google.com/spreadsheets/d/1-OtoOjfRp7paotobD6MeU7sgBc8y_G9TbGnLhcUVSGY/edit#gid=430074513)
 
-![Screenshot of Dashboard](Week/Bike_Buyers_Dashboard.png)
+![Screenshot of Dashboard](https://github.com/aayushkaushik009/Data_Analyst_Winter_Internship_Projects/blob/main/Week%201%20-%20Bike%20Buyers/Bike_Buyers_Dashboard.png?raw=true)
