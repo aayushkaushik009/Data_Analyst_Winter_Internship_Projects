@@ -25,4 +25,6 @@ Step 7:- Insights and Recommendation Draw insights from your analysis and use th
 Step 8:- Documentation Document the steps you took to create the dashboard. Include explanations for your design choices and any challenges you faced. Create a summary of the insights gained and recommendations made.
 
 # Dashboard
-Final Dashboard to represent relations is available [here](https://docs.google.com/spreadsheets/d/1-OtoOjfRp7paotobD6MeU7sgBc8y_G9TbGnLhcUVSGY/edit#gid=430074513)
+The final Dashboard to represent relations is available [here](https://docs.google.com/spreadsheets/d/1-OtoOjfRp7paotobD6MeU7sgBc8y_G9TbGnLhcUVSGY/edit#gid=430074513)
+
+![Screenshot of Dashboard](Week/Bike_Buyers_Dashboard.png)
