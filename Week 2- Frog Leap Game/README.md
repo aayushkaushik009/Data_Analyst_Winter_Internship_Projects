@@ -20,4 +20,4 @@ Game Logic: Develop the underlying game logic, including rules for winning, losi
 
 Testing and Debugging: Test your game thoroughly to identify and fix any bugs or issues. Consider testing different scenarios to ensure the robustness of your code.
 
-[Screenshot]()
+[Screenshot](https://github.com/aayushkaushik009/Data_Analyst_Winter_Internship_Projects/blob/main/Week%202-%20Frog%20Leap%20Game/Game%20Overview.png)
